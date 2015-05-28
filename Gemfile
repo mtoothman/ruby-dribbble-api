@@ -1,6 +1,7 @@
 source :rubygems
  
 gem 'httparty'
+gem 'faraday'
  
 group :test do
   gem 'webmock'
